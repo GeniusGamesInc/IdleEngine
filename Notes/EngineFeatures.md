@@ -1,7 +1,8 @@
-#Engine Feature List
+# Engine Feature List
 
-###Game Engine
-####Game Types
+### Game Engine
+
+#### Game Types
 * Clicker:
   * Tap as fast as you can to generate in-game currency. While this is used in many idle games, it lacks long-term appeal and should be used in conjunction with other mechanics.
 * Simulation:
@@ -11,11 +12,11 @@
 * Merge:
   * Users are able to succeed by dragging and dropping items. This can work particularly well for themes that involve building progression.
 
-####Game Features
+#### Game Features
 * Main Game/Event Game
   * Allow multiple "Worlds" so you can run timed events for bonus content/rewards
 
-####Actor Types
+#### Actor Types
 * Primary Currency: 
   * This is the main number that is being incremented, generally the goal of the game. Usually it’s some form of money.
 * Generator: 
@@ -27,13 +28,13 @@
 * Prestige: 
   * A reset of most elements of the game (especially generators and multipliers), but gaining currency (prestige currency) and/or persistent multipliers to accelerate the next time through. Similar to a “New Game+”.
 
-###Multiplayer
+### Multiplayer
 * Leaderboards
 * Friend List
   * Friends give a bonus on occasional earnings
   * Invite Referral system for a bonus
 
-###Revenue
+### Revenue
 * Ads
   * Give Multipliers/one time gifts
 * In App Purchases
