@@ -11,8 +11,8 @@
 * https://blog.kongregate.com/the-math-of-idle-games-part-iii/
 
 ### Talks
-* https://gdcvault.com/play/1023486/ - Adventure Capitalist
-* (Dissecting Design -- The Alluring Design of the Idle/Clicker Genre)[https://www.youtube.com/watch?v=clQG9OHqewE]
+* [Adventure Capitalist - GDC Talk](https://gdcvault.com/play/1023486/)
+* [Dissecting Design -- The Alluring Design of the Idle/Clicker Genre](https://www.youtube.com/watch?v=clQG9OHqewE)
 
 ### Tech/Tools
 * https://www.gamesparks.com/ - Easy to implement gaming backend
